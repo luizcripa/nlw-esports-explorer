@@ -12,3 +12,5 @@ Projeto realizado através do evento Next Level Week da Rocketseat.
 ⚙ HTML
 ⚙ CSS
 ⚙ GIT e GITHUB
+
+[📬 Contato](https://www.linkedin.com/in/luiz-fernando-cripa/)
